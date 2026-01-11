@@ -11,8 +11,5 @@
 node_modules/
 src/
 test/
-*.ts
-*.js
-*.json
 webpack*.js
 tsconfig*.json
