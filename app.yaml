@@ -8,6 +8,3 @@ handlers:
   - url: /(.*)
     static_files: dist/\1
     upload: dist/(.*)
-
-skip_files:
-  - (?!^dist)
